@@ -31,9 +31,9 @@ I build **modern, fast and responsive** web interfaces using cutting-edge techno
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToshqulovLaziz&show_icons=true&theme=tokyonight" alt="Laziz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToshqulovLaziz&show_icons=true&theme=tokyonight" alt="Laziz GitHub statistikasi" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ToshqulovLaziz&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=ToshqulovLaziz&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
