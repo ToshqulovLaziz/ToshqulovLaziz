@@ -28,16 +28,6 @@ I build **modern, fast and responsive** web interfaces using cutting-edge techno
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToshqulovLaziz&show_icons=true&theme=tokyonight" alt="Laziz GitHub statistikasi" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ToshqulovLaziz&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
 ### 🌐 Find me around the web
 
 - 🌍 [Portfolio Website](https://portfolio-front-dev.vercel.app/)
