@@ -1,4 +1,4 @@
-# 🖥️ Laziz Toshqulov 
+# 💻 Laziz Toshqulov 
 ### _Frontend Architect & Digital Experience Engineer_
 
 <p align="center">
