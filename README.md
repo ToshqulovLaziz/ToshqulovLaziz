@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toshqulov04&label=Profile+Views&color=7E3AF2&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ToshqulovLaziz&label=Profile+Views&color=7E3AF2&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ const laziz = {
     <td width="50%">
       <h3 align="center">🎓 Amalyotchi Talaba Platform</h3>
       <p align="center">
-        <a href="#" target="_blank">
+        <a href="https://portfolio-front-dev.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-7E3AF2?style=for-the-badge" />
         </a>
       </p>
@@ -121,7 +121,7 @@ const laziz = {
     <td width="50%">
       <h3 align="center">💼 UzWorks.uz</h3>
       <p align="center">
-        <a href="#" target="_blank">
+        <a href="https://portfolio-front-dev.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-7E3AF2?style=for-the-badge" />
         </a>
       </p>
@@ -137,7 +137,7 @@ const laziz = {
     <td width="50%">
       <h3 align="center">🔧 Servis Ustasi</h3>
       <p align="center">
-        <a href="#" target="_blank">
+        <a href="https://portfolio-front-dev.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-7E3AF2?style=for-the-badge" />
         </a>
       </p>
@@ -151,7 +151,7 @@ const laziz = {
     <td width="50%">
       <h3 align="center">🏢 Admin Panel System</h3>
       <p align="center">
-        <a href="#" target="_blank">
+        <a href="https://portfolio-front-dev.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-7E3AF2?style=for-the-badge" />
         </a>
       </p>
@@ -170,15 +170,15 @@ const laziz = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toshqulov04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7e3af2&icon_color=7e3af2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToshqulovLaziz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7e3af2&icon_color=7e3af2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshqulov04&theme=tokyonight&hide_border=true&background=1a1b27&ring=7e3af2&fire=7e3af2&currStreakLabel=7e3af2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToshqulovLaziz&theme=tokyonight&hide_border=true&background=1a1b27&ring=7e3af2&fire=7e3af2&currStreakLabel=7e3af2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshqulov04&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7e3af2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshqulovLaziz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7e3af2" alt="Top Languages" />
 </p>
 
 ---
@@ -186,7 +186,7 @@ const laziz = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toshqulov04&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ToshqulovLaziz&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -194,7 +194,7 @@ const laziz = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toshqulov04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7e3af2&line=7e3af2&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToshqulovLaziz&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7e3af2&line=7e3af2&point=ffffff" alt="Contribution Graph" />
 </p>
 
 ---
